@@ -1,0 +1,2 @@
+# IrniPanel
+IrniPanel est un manager pour vos clients pour qu'il puissent commandez des offres chez votre hébergeur. Pour les administrateurs de projet vous pouvez administrer le panel en ajoutant des offres, des catégories d'offres. Vous pouvez bientôt commandez des licence gratuite ou payant sur le site https://irni-panel.tk/. IrniPanel est 100% gratuit !
