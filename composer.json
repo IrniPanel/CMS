@@ -1,0 +1,19 @@
+{
+    "name": "larsouille/irni-panel",
+    "description": "IrniPanel est un espace client & admin 100% gratuit ! https://irni-panel.tk/",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Larsouille",
+            "email": "larsouille.pro@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "src"
+        }
+    },
+    "require": {
+        "hassankhan/config": "^2.1"
+    }
+}

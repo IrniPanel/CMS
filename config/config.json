@@ -1,0 +1,26 @@
+{
+  "name": "MuuuhHeberg",
+  "description": "MuuuhHeberg est un hébergeur pour les vaches !",
+  "keywords": "MuuuhHeberg hébergeur",
+  "url": {
+    "site": "https://MuuuhHeberg.fr",
+    "docs": "https://docs.MuuuhHeberg.fr"
+  },
+  "database": {
+    "host": "localhost",
+    "port": "3306",
+    "table_name" : "IrniPanel",
+    "username": "root",
+    "password": "root"
+  },
+  "license" : "YOUR_LICENSE_KEY_HERE",
+  "social_networks": {
+    "discord": "https://discord.gg/MuuuhHeberg",
+    "twitter": null
+  },
+  "logo": {
+    "logo_text": "assets/logo/text.png",
+    "logo_round": "assets/logo/round.png",
+    "logo_normal": "assets/logo/normal.png"
+  }
+}
